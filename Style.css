@@ -1,0 +1,78 @@
+
+ body{
+   background-image: url(https://epilot.eu/storage/blogImages/4ShVVpkjXjf9UuwdBRAmfb25Hf41dasgSHSNWLXE.jpeg);
+   background-size: 90% 130%;
+   margin-left: 30px;
+   margin-right: 30px;
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+.container{
+  width: 1000px;
+  height: 600px;
+  border-radius: 3%;
+  /* background: black ; */
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  padding-top: 50px;
+  /* opacity: 0.4; */
+}
+
+.inside{
+  width: 900px;
+  height: 500px;
+  padding: 10px;
+  margin: auto;
+}
+
+img{
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  display: block;
+  margin-top: auto;
+}
+
+header>h1{
+  color: #00DD00;
+  font-family: calibri;
+  margin: auto;
+  text-align: center;
+}
+
+.navi{
+  background-color:#00DD00;
+  padding: 15px;
+  text-align: center;
+}
+.Charge1{
+  width: 250px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.Charge2{
+  width: 500px;
+  height: 20px;
+  background-color: #00DD00;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.Charge3{
+  width: 150px;
+  height: 20px;
+  background-color: red;
+  border-radius: 5px 5px 5px 5px;
+}
+
+section>h2{
+  display: inline-block;
+  margin: auto;
+}
+section{
+  color: white;
+  padding: 10px 10px 20px 0px;
+  font-family: calibri;
+}
